@@ -50,5 +50,6 @@ The Crime Record Management System is a robust and scalable application designed
 
 (Explain how others can contribute to the project.)
 
-**License:**
+**License:**  
+Free feel to edit and use it !!
 
